@@ -1,3 +1,5 @@
+# Jie Ting Li Lu
+# comment 2
 # comment
 # Lab 3
 # Scienctific calculator
